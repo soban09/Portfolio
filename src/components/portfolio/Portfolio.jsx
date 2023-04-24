@@ -19,9 +19,9 @@ const data = [
   {
     id: 2,
     image: IMG2,
-    title: 'Todo List',
-    github: 'https://github.com/soban09/MyToDoList',
-    demo: 'https://soban09.github.io/MyToDoList/'
+    title: 'Chat App',
+    github: 'https://github.com/soban09/Chat-App',
+    demo: 'https://sf-reactjs-chat-app-socketio.netlify.app/'
   },
   {
     id: 3,
@@ -33,9 +33,9 @@ const data = [
   {
     id: 4,
     image: IMG4,
-    title: 'Todo List',
-    github: 'https://github.com/soban09/MyToDoList',
-    demo: 'https://soban09.github.io/MyToDoList/'
+    title: 'Whatsapp bot',
+    github: 'https://github.com/soban09/Whatsapp-bot',
+    demo: 'https://github.com/soban09/Whatsapp-bot'
   },
   {
     id: 5,
